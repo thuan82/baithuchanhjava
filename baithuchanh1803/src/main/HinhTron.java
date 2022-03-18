@@ -1,4 +1,4 @@
-package shapes;
+package main;
 import java.util.Scanner;
 public class HinhTron {
     public static void main(String[] args) throws Exception {

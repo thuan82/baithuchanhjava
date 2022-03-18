@@ -1,5 +1,5 @@
-import shapes.HinhTron;
-import shapes.Hinhchunhat;
+import main.HinhTron;
+import main.Hinhchunhat;
 
 public class App {
     public static void main(String[] args) throws Exception {
