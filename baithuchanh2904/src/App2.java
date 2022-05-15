@@ -7,4 +7,4 @@ public class App2 {
         b.kiemTraTuGiac();
         b.kiemTraLoaiTuGiac();
     }
-}
+0
